@@ -1,4 +1,4 @@
 Hello World!
 Why are we always use this for our first example?
 Just add a line!
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
